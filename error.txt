@@ -1,0 +1,4 @@
+
+> Task :react-native-vision-camera:compileDebugKotlin FAILED
+
+the above is that shitty error
